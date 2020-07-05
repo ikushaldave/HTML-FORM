@@ -289,7 +289,10 @@ input[type="number"] {
     display: inline-block;
     background-color: rgb(24 24 23 / 51%);
     padding: 20px;
-    margin-right: 10px;
+}
+
+.margin-left {
+    margin-left: 8px;
 }
 
 .arrow i {
