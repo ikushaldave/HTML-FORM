@@ -168,8 +168,8 @@ header {
 ===================================== */
 
 .user-search {
+    padding: 50px 0;
     color: #fff;
-    padding: 60px 0 0;
     background: linear-gradient(to right, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.5)), url(../images/banner.jpg) no-repeat;
 }
 
@@ -425,6 +425,7 @@ input[type="number"] {
     background-color: hsl(0,0%,96%);
     padding: 18px;
     margin: 12px 0;
+    border: none;
 }
 
 .contact-form input[name="subject"] {
