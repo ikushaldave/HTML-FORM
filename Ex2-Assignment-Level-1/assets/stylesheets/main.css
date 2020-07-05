@@ -12,7 +12,8 @@
 }
 
 body {
-    font: 400 16px/1.5 'Roboto', sans-serif;;
+    font: 400 16px/1.5 'Roboto', sans-serif;
+    background: hsla(0,100%,74%, 0.9) url(../images/bg-intro-desktop.png);
 }
 
 .container {
@@ -41,11 +42,6 @@ body {
 /* ====================================
     Main
 ===================================== */
-
-main {
-    height: 110vh;
-    background: hsla(0,100%,74%, 0.9) url(../images/bg-intro-desktop.png);
-}
 
 .product-info {
     color: #fff;
